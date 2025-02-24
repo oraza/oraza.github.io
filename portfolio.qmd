@@ -1,0 +1,99 @@
+---
+title: "Portfolio"
+format: html
+---
+
+## Fifty Shades of Medical Research
+
+::: columns
+::: {.column width="55%"}
+This presentation outlines the key components of good research practices. Here I emphasized the importance of reproducibility of research and ethical methods. Moreover, I discussed common misconceptions, such as the hierarchy of study designs, Simpson’s paradox, p-hacking, and stressing the difference between statistical and public health significance. [View this presentation here!](https://oraza.github.io/docs/50ShadesofResearch.ppsx){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/proj_1.jpeg)
+:::
+:::
+
+## Screening Test Evaluation Web App
+
+::: columns
+::: {.column width="40%"}
+![](images/proj_2.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+This web-based app works on the platform of Shiny application, which facilitates the evaluation of screening tools by calculating various diagnostic efficiency statistics. The app provides a user-friendly interface and is useful for researchers, healthcare professionals, or anyone interested in assessing the effectiveness of a screening test in a quantitative manner. The simplicity of the interface makes it easy to use, even for those without extensive statistical knowledge. [Check out the app here!](https://oraza.github.io/ScreeningApp/){target="_blank"}
+:::
+:::
+
+## GWR analysis: A statistical method to account for spatial heterogeneity
+
+::: columns
+::: {.column width="55%"}
+In this study we introduced geographically weighted regression as a statistical method to account for spatial heterogeneity in data analysis. Unlike ordinary linear regression (OLR), which assumes a global association across the study area, GWR acknowledges and incorporates local variations in associations, providing valuable insights for policymakers to design targeted interventions based on localized data patterns. [Continue reading](https://journalaim.com/PDF/aim-22-155.pdf){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/proj_3.jpg)
+:::
+:::
+
+## Differential achievements in childhood immunization across geographical regions of Pakistan: analysis of wealth-related inequality
+
+::: columns
+::: {.column width="40%"}
+![](images/proj_4.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+In this analysis of childhood immunization in Pakistan, based on DHS (2012–13), we uncovered significant wealth-related inequalities in immunization coverage. The study emphasizes the need for policies that address both average immunization rates and inequality gaps. [Continue reading](https://link.springer.com/article/10.1186/s12939-018-0837-6){target="_blank"}
+:::
+:::
+
+## Unveiling Pathways between Social Capital (SC) and Suicidal Ideation (SI) through Moderated Mediation Analysis (Unpublished work!) 
+
+::: columns 
+::: {.column width="55%"} 
+
+Here we aimed to study the mediating role of anxiety/depression and whether age moderates the relationship of SC and SI among adult transgender in Karachi. A sample of 230 adult transgender who completed measurements of SC, SI, anxiety & depression and demographic information. Spearman correlation was calculated for scores of SC, SI and anxiety/depression. Bais-corrected bootstrap method using PROCESS for R was utilized for estimating the mediating role of anxiety/depression between SC and SI and role of age as an effect modifier in presence of the mediator.
+
+::: 
+::: {.column width="5%"} 
+::: 
+
+::: {.column width="40%"} 
+
+![](images/proj_5.jpg) 
+:::
+:::
+
+## The Good, The Bad & The Ugly of Medical Research
+::: columns
+::: {.column width="40%"}
+![](images/proj_6.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+
+In this session, I discussed the importance of medical research and highlights both its positive and negative aspects. I emphasized that good research should be reproducible with validated scientific, statistical, and ethical methods. I also introduced the "Four Horsemen of Research Apocalypse," which includes issues like ghost and guest authorship, research fraud, predatory journals, and salami slicing.
+:::
+:::
+
+
+

@@ -1,0 +1,56 @@
+project:
+  type: website
+
+website:
+  title: "Owais Raza"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+      - text: "Publications"
+        file: pubs.qmd
+    right:
+      - text: "{{< iconify academicons:orcid width=22px height=22px >}}"
+        url: https://orcid.org/0000-0002-3410-441X
+      - text: "{{< iconify academicons:google-scholar width=22px height=22px  >}}"
+        href: https://scholar.google.com/citations?user=weiuxRkAAAAJ&hl=en
+      - icon: linkedin
+        href: https://www.linkedin.com/in/owraza/
+      - icon: github
+        href: https://github.com/oraza
+      - icon: envelope-at-fill
+        href: mailto:obie.raza@gmail.com
+  
+  page-footer:
+    center: |
+      <span class="container">[Contact Me](mailto:obie.raza@gmail.com){target="_blank"}</span>
+    left: |
+      <span class="container">Made with [Posit Quarto](https://quarto.org/){target="_blank"}</span>
+    right: |
+      <span class="container">[Github Repo](https://github.com/oraza){target="_blank"}</span>
+    background: "#343940"
+
+
+format:
+  html:
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+    theme:
+      light: [sketchy]
+      dark: [sketchy, theme-dark.scss]
+    css: styles.css
+    citations-hover: true
+    includes: 
+      in_header: header.html
+      
+
+    
+    
+
+

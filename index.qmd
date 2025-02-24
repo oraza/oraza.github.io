@@ -1,0 +1,29 @@
+---
+title: Hi! I am <span style="color:#E95420">Owais</span>
+image: images/profile.png
+about:
+  template: trestles
+  links:
+    - text: "{{< iconify academicons:orcid >}} ORCID"
+      url: https://orcid.org/0000-0002-3410-441X
+    - text: "{{< iconify academicons:google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=weiuxRkAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/owraza/
+    - icon: github
+      text: Github
+      href: https://github.com/oraza
+    - icon: envelope
+      text: Contact me
+      href: mailto:obie.raza@gmail.com 
+
+---
+<span style="font-size: 20px;">
+I'm a public health researcher deeply dedicated to <span style="color:#E95420">**health equity**</span> and <span style="color:#E95420">**social justice**<iconify-icon icon="hugeicons:justice-scale-01" width="20" height="20"></iconify-icon></span>. My career has revolved around teaching public health courses, guiding graduate & postgraduate theses, and leading research projects. This trajectory has been shaped by a commitment to addressing health disparities faced by underserved communities.</span>
+
+<span style="font-size: 20px;">
+My research interests span a wide array of topics, including <span style="color:#E95420">**spatial epidemiology**</span>, <span style="color:#E95420">**infectious diseases**</span>, <span style="color:#E95420">**health inequalities**</span> and application of <span style="color:#E95420">**mediation and moderation analyses**</span>.</span>
+
+<span style="font-size: 20px;">
+My publication record demonstrate my ability to analyze large health databases like DHS, coupled with the proficiency in statistical programming languages including R, STATA, ArcGIS, and SPSS. With a strong commitment to <span style="color:#E95420">**diversity**</span>, <span style="color:#E95420">**equity**</span>, and <span style="color:#E95420">**inclusion**<iconify-icon icon="material-symbols-light:diversity-2-rounded" width="20" height="20"></iconify-icon></span> through my research and community engagement, I promote <span style="color:#E95420">**open science**<iconify-icon icon="fluent-mdl2:open-source" width="20" height="20"></iconify-icon></span> and embrace a growth mindset, always seeking to learn and apply new methodologies. Beyond my academic achievements, I am a strong proponent of work-life balance and gender equality.</span>

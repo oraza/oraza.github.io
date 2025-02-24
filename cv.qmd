@@ -1,0 +1,6 @@
+---
+title: "CV"
+format: html
+---
+
+![](OR_resume_Sep2024.pdf){width=100% height=1000px}
