@@ -189,6 +189,40 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Hajizadeh S, Vahid Dastjerdi M, Moradi-Lakeh M, Khajavi A, Farzadfar F, Zandian E, <strong>Raza O</strong>, Tehrani FR, Farzadfar F. The trend of national and subnational burden of maternal conditions in Iran from 1990 to 2013: the study protocol. Arch Iran Med. 2014;17(3):198–203.</p></li>
 <li><p>Shoaib B, Ali M, Danish SH, <strong>Raza O</strong>. Human Immunodeficiency Virus, Hepatitis B and C: Barbers knowledge and their Practices. Infectious Diseases Journal of Pakistan. 2012;40(17):628.</p></li>
 </ul>
+<!-- Easter Egg: Hidden YouTube Link -->
+<!-- Easter Egg: Hidden YouTube Link -->
+<p style="display:none" id="easterEgg">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">🎵 Click for a surprise! 🎵</a>
+</p>
+<p id="changingHint" style="transition: opacity 1s ease-in-out;">
+Want some fun? Find the key. 🕵️
+</p>
+<script>
+  const hints = [
+    "Press the key that starts Quarto.😉",
+    "Hit a key to unlock the music… but which one?",
+    "A single letter can change everything. 🎶"
+  ];
+
+  let hintInterval = setInterval(() => {
+    document.getElementById("changingHint").innerText = hints[Math.floor(Math.random() * hints.length)];
+  }, 4000);
+
+  document.addEventListener("keydown", function(event) {
+    if (event.code === "KeyQ") { // Trigger when 'Q' is pressed
+      document.getElementById("easterEgg").style.display = "block"; // Show Easter Egg
+      
+      let hintElement = document.getElementById("changingHint");
+      hintElement.style.opacity = "0"; // Start fade-out
+
+      setTimeout(() => {
+        hintElement.style.display = "none"; // Hide after fade-out
+      }, 1000); // Matches transition duration (1s)
+
+      clearInterval(hintInterval); // Stop rotating hints
+    }
+  });
+</script>
 
 
 
@@ -750,13 +784,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><span class="container">Made with <a href="https://quarto.org/" target="_blank">Posit Quarto</a></span></p>
+<p>© 2025 Owais Raza</p>
 </div>   
     <div class="nav-footer-center">
-<p><span class="container"><a href="mailto:obie.raza@gmail.com" target="_blank">Contact Me</a></span></p>
+<p>Source code <a href="https://github.com/oraza/oraza.github.io">Github</a></p>
 </div>
     <div class="nav-footer-right">
-<p><span class="container"><a href="https://github.com/oraza" target="_blank">Github Repo</a></span></p>
+<p>Made with ❤️ and <a href="https://quarto.org/">Quarto</a></p>
 </div>
   </div>
 </footer>

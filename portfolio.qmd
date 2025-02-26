@@ -3,7 +3,7 @@ title: "Portfolio"
 format: html
 ---
 
-## Fifty Shades of Medical Research
+## <span style="color:#E95420">Fifty Shades of Medical Research</span>
 
 ::: columns
 ::: {.column width="55%"}
@@ -18,7 +18,7 @@ This presentation outlines the key components of good research practices. Here I
 :::
 :::
 
-## Screening Test Evaluation Web App
+## <span style="color:#E95420">Screening Test Evaluation Web App</span>
 
 ::: columns
 ::: {.column width="40%"}
@@ -33,7 +33,7 @@ This web-based app works on the platform of Shiny application, which facilitates
 :::
 :::
 
-## GWR analysis: A statistical method to account for spatial heterogeneity
+## <span style="color:#E95420">GWR analysis: A statistical method to account for spatial heterogeneity</span>
 
 ::: columns
 ::: {.column width="55%"}
@@ -48,7 +48,7 @@ In this study we introduced geographically weighted regression as a statistical 
 :::
 :::
 
-## Differential achievements in childhood immunization across geographical regions of Pakistan: analysis of wealth-related inequality
+## <span style="color:#E95420">Differential achievements in childhood immunization across geographical regions of Pakistan: analysis of wealth-related inequality</span>
 
 ::: columns
 ::: {.column width="40%"}
@@ -63,7 +63,7 @@ In this analysis of childhood immunization in Pakistan, based on DHS (2012–13)
 :::
 :::
 
-## Unveiling Pathways between Social Capital (SC) and Suicidal Ideation (SI) through Moderated Mediation Analysis (Unpublished work!) 
+## <span style="color:#E95420">Unveiling Pathways between Social Capital (SC) and Suicidal Ideation (SI) through Moderated Mediation Analysis (Unpublished work!)</span>
 
 ::: columns 
 ::: {.column width="55%"} 
@@ -80,7 +80,7 @@ Here we aimed to study the mediating role of anxiety/depression and whether age 
 :::
 :::
 
-## The Good, The Bad & The Ugly of Medical Research
+## <span style="color:#E95420">The Good, The Bad & The Ugly of Medical Research</span>
 ::: columns
 ::: {.column width="40%"}
 ![](images/proj_6.jpg)

@@ -27,3 +27,4 @@ My research interests span a wide array of topics, including <span style="color:
 
 <span style="font-size: 20px;">
 My publication record demonstrate my ability to analyze large health databases like DHS, coupled with the proficiency in statistical programming languages including R, STATA, ArcGIS, and SPSS. With a strong commitment to <span style="color:#E95420">**diversity**</span>, <span style="color:#E95420">**equity**</span>, and <span style="color:#E95420">**inclusion**<iconify-icon icon="material-symbols-light:diversity-2-rounded" width="20" height="20"></iconify-icon></span> through my research and community engagement, I promote <span style="color:#E95420">**open science**<iconify-icon icon="fluent-mdl2:open-source" width="20" height="20"></iconify-icon></span> and embrace a growth mindset, always seeking to learn and apply new methodologies. Beyond my academic achievements, I am a strong proponent of work-life balance and gender equality.</span>
+

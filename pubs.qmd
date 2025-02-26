@@ -42,3 +42,38 @@ format:
 - Hajizadeh S, Vahid Dastjerdi M, Moradi-Lakeh M, Khajavi A, Farzadfar F, Zandian E, **Raza O**, Tehrani FR, Farzadfar F. The trend of national and subnational burden of maternal conditions in Iran from 1990 to 2013: the study protocol. Arch Iran Med. 2014;17(3):198–203.
 
 - Shoaib B, Ali M, Danish SH, **Raza O**. Human Immunodeficiency Virus, Hepatitis B and C: Barbers knowledge and their Practices. Infectious Diseases Journal of Pakistan. 2012;40(17):628.
+
+<!-- Easter Egg: Hidden YouTube Link -->
+<!-- Easter Egg: Hidden YouTube Link -->
+<p style="display:none" id="easterEgg">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">🎵 Click for a surprise! 🎵</a>
+</p>
+
+<p id="changingHint" style="transition: opacity 1s ease-in-out;">Want some fun? Find the key. 🕵️</p>
+
+<script>
+  const hints = [
+    "Press the key that starts Quarto.😉",
+    "Hit a key to unlock the music… but which one?",
+    "A single letter can change everything. 🎶"
+  ];
+
+  let hintInterval = setInterval(() => {
+    document.getElementById("changingHint").innerText = hints[Math.floor(Math.random() * hints.length)];
+  }, 4000);
+
+  document.addEventListener("keydown", function(event) {
+    if (event.code === "KeyQ") { // Trigger when 'Q' is pressed
+      document.getElementById("easterEgg").style.display = "block"; // Show Easter Egg
+      
+      let hintElement = document.getElementById("changingHint");
+      hintElement.style.opacity = "0"; // Start fade-out
+
+      setTimeout(() => {
+        hintElement.style.display = "none"; // Hide after fade-out
+      }, 1000); // Matches transition duration (1s)
+
+      clearInterval(hintInterval); // Stop rotating hints
+    }
+  });
+</script> 

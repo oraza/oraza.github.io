@@ -1,6 +1,105 @@
 ---
-title: "CV"
-format: html
+pagetitle: "CV"
+title: ""
+format:
+  html:
+    toc: true
+  #pdf:
+      #author: Owais Raza
+      #pdf-engine: pdflatex
+    
+css: cv.css
+
+project-type: website
 ---
 
-![](OR_resume_Sep2024.pdf){width=100% height=1000px}
+## EDUCATION
+
+### <span style="color:#E95420">Tehran University of Medical Sciences</span> 
+**PhD in Epidemiology** [2018]{.cvdate} 
+
+-  *Thesis Title:* Application of Geographically Weighted Analysis to Determine Association Between Socioeconomic Status and Childhood Morbidity in East Africa.  
+-  *GPA:* 18.68/20  
+-  *Award:* Diamond Merit-Based Tuition Waiver Scholarship
+
+### <span style="color:#E95420">Ziauddin University</span>  
+**MBBS** [2005]{.cvdate}
+
+
+
+
+## EXPERIENCE
+
+**<span style="color:#E95420">BMY Health, Canada</span>**\
+*Research Mentor* [Jul 2024 --- Present]{.cvdate}
+
+-   Conducting data analysis workshops (using SPSS & STATA) for multiple
+rounds of internship program in collaboration with BMY Health (Pakistan).
+
+-   Member of Research Ethic Board to oversee ethical compliance.
+
+*<span style="color:#E95420">BMY Health, Pakistan</span>* [Jun 2024 --- Present]{.cvdate}
+
+-   Served as Director of the Research Internship Program for the [Summer/Fall 2024] cohort, overseeing intern mentorship and training.
+
+-   Developing training modules and fostering a research-focused learning environment.
+
+-   Assessing the goals of interns in the start of the internship and
+providing advice and encouragement for supporting their research goals.
+
+-   Offering constructive intellectual input to assist interns in the ideation and execution of their research projects.
+
+**<span style="color:#E95420">School of Public Health, Dow University of Health Sciences, Karachi (PK)</span>**\
+*Assistant Professor* [Feb 2020 --- Jul 2024]{.cvdate}
+
+-    Developed and implemented creative curricula for public health courses.
+
+-    Taught undergraduate and postgraduate students in epidemiology, biostatistics, and research methodology.
+
+-    Mentored students and enhanced research quality by supervising and evaluating theses.
+
+**<span style="color:#E95420">Research and Training Wing, PPHI Sindh, Karachi (PK)</span>**\
+*Deputy Director (Research)* [Nov 2018 --- Jan 2020]{.cvdate}
+
+-   Implemented various research projects in 22 districts of Sindh.
+
+-   Analyzed PPHI Sindh’s database from DHIS for insightful analysis.
+
+-   Established PPHI Sindh’s IRB committee, ensuring ethical research practices.
+
+**<span style="color:#E95420">Department of Epidemiology and Biostatistics, School of Public Health, Tehran University of Medical Sciences, Tehran (IR)</span>**\
+*Teaching Assistant* [Apr 2014 --- SEP 2017]{.cvdate}
+
+-   Supervised Community Assessment program for MPH students.
+
+-   Facilitated MPH students in Research Methodology & Epidemiology courses.
+
+-   Conducted SPSS, STATA & R workshops for PhD candidates.
+
+**<span style="color:#E95420">Non-Communicable Diseases Research Center, Tehran University of Medical Sciences, Tehran (IR)</span>**\
+*Research Assistant* [May 2013 --- Dec 2014]{.cvdate}
+
+-   Worked with PIs to coordinate quantitative research on maternal & child health issues.
+
+-   Participated in developing and published study protocol for national & sub-national burden of maternal conditions in Iran.
+
+**<span style="color:#E95420">Department of Community Health Sciences, Ziauddin University, Karachi (PK)</span>**\
+*Lecturer* [Feb 2008 --- Sep 2012]{.cvdate}
+
+-   Facilitated courses on Biostatistics and Epidemiology to medical students.
+
+-   Conducted Problem – Based learning (PBL), small group sessions and lectures.
+
+-   Supervised research projects of third- and fourth-year medical students.
+
+-   Conducted SPSS Workshop for medical students.
+
+
+## Skills  
+
+- **R/RStudio** 
+- **STATA** 
+- **SPSS**
+- **DAGitty**
+- **ArcGIS** 
+- **Data Visualization** 
