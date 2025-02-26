@@ -10,7 +10,6 @@ format:
     
 css: cv.css
 
-project-type: website
 ---
 
 ## EDUCATION
