@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "CV"
 format:
   html:
     toc: true
@@ -36,7 +36,7 @@ rounds of internship program in collaboration with BMY Health (Pakistan).
 
 -   Member of Research Ethic Board to oversee ethical compliance.
 
-*<span style="color:#E95420">BMY Health, Pakistan</span>*\
+**<span style="color:#E95420">BMY Health, Pakistan</span>**\
 *Senior Researcher* [Jun 2024 --- Present]{.cvdate} 
 
 -   Served as Director of the Research Internship Program for the [Summer/Fall 2024] cohort, overseeing intern mentorship and training.
