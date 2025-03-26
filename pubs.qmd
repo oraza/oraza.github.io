@@ -7,6 +7,8 @@ format:
     css: styles.css
 ---
 
+- Khan RA, **Raza O**, Ahmed M, Zaheer S. Socioeconomic Disparities in Accessing Early Newborn Care in Pakistan: Secondary Data Analysis of Nationally Representative Sample. Turkish Archives of Pediatrics. 2025 Mar 3;60(2).
+
 - Lodhi FS, Rabbani U, Khan AA, **Raza O**, Holakouie-Naieni K, Yaseri M, Farooq U, Montazeri A. Factors associated with quality of life among joint and nuclear families: a population-based study. BMC Public Health. 2021 Dec;21(1):1-2.
 
 - Balikuddembe JK, Ardalan A, Stephen KM, **Raza O**, Khorasani-Zavareh D. Risk factors associated with road traffic injuries at the prone-areas in Kampala city: a retrospective cross-sectional study. Journal of Injury and Violence Research. 2021 Jan;13(1):13.
@@ -59,25 +61,28 @@ You've made it to the end! Attention to detail deserves a reward, but only the k
   const hints = [
     "Press the key that starts Quarto.😉",
     "Hit a key to unlock the music… but which one?",
+    "Okay! just press Q",
     "A single letter can change everything. 🎶"
   ];
 
   let hintInterval = setInterval(() => {
     document.getElementById("changingHint").innerText = hints[Math.floor(Math.random() * hints.length)];
   }, 4000);
-
+  
+  const videos = [
+    "https://www.youtube.com/watch?v=jM8dCGIm6yc", // Wolf Totem - The HU 
+    "https://www.youtube.com/watch?v=OEjfiBWPHmA", // Rabba Ho - CS Pak
+    "https://www.youtube.com/watch?v=Ye6d4zXdtUc&t=101s", // Morgh-e-Sahar - Shajarian
+    "https://www.youtube.com/watch?v=GWXXTr7l9e8", // Allah Hu - Rohail Hyatt
+    "https://www.youtube.com/watch?v=wupToqz1e2g", // Pale Blue Dot
+    "https://www.youtube.com/watch?v=8UVNT4wvIGY"  // STITK - Gotye
+  ];
+  
   document.addEventListener("keydown", function(event) {
-    if (event.code === "KeyQ") { // Trigger when 'Q' is pressed
-      document.getElementById("easterEgg").style.display = "block"; // Show Easter Egg
-      
-      let hintElement = document.getElementById("changingHint");
-      hintElement.style.opacity = "0"; // Start fade-out
-
-      setTimeout(() => {
-        hintElement.style.display = "none"; // Hide after fade-out
-      }, 1000); // Matches transition duration (1s)
-
-      clearInterval(hintInterval); // Stop rotating hints
+    if (event.code === "KeyQ") {
+      let randomVideo = videos[Math.floor(Math.random() * videos.length)];
+      window.open(randomVideo, "_blank"); // Open random surprise video
     }
   });
-</script> 
+</script>
+
