@@ -29,7 +29,7 @@ website:
   
   page-footer:
     left: "&#169; 2025 Owais Raza"
-    center:  Source code  [Github](https://github.com/oraza/oraza.github.io)
+    center:  <span class="easter-egg-hint" title="Curious minds find hidden surprises.">curiosity ✨</span>
     right: Made with ❤️ and [Quarto](https://quarto.org/)
     
 
