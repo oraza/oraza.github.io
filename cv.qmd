@@ -14,7 +14,7 @@ css: cv.css
 
 ### [Tehran University of Medical Sciences]{style="color:#E95420"}
 
-**PhD in Epidemiology** [2018]{.cvdate}
+**Ph.D. in Epidemiology** [2018]{.cvdate}
 
 -   <b>*Thesis Title:*</b> Application of Geographically Weighted Analysis to Determine Association Between Socioeconomic Status and Childhood Morbidity in East Africa.\
 -   <b>*GPA:*</b> 18.68/20\
