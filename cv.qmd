@@ -27,13 +27,15 @@ css: cv.css
 ## EXPERIENCE
 
 ### [**BMY Health, Canada**]{style="color:#E95420"}
+
 *Research Mentor* [Jul 2024 --- Present]{.cvdate}
 
 -   Conducting data analysis workshops (using SPSS & STATA) for multiple rounds of internship program in collaboration with BMY Health (Pakistan).
 
 -   Member of Research Ethic Board to oversee ethical compliance.
 
-### [**BMY Health, Pakistan**]{style="color:#E95420"}\
+### [**BMY Health, Pakistan**]{style="color:#E95420"}
+
 *Senior Researcher* [Jun 2024 --- Present]{.cvdate}
 
 -   Served as Director of the Research Internship Program from December 2024 to March 2025, overseeing intern mentorship and training.
@@ -44,7 +46,8 @@ css: cv.css
 
 -   Offering constructive intellectual input to assist interns in the ideation and execution of their research projects.
 
-### [**School of Public Health, Dow University of Health Sciences, Karachi (PK)**]{style="color:#E95420"}\
+### [**School of Public Health, Dow University of Health Sciences, Karachi (PK)**]{style="color:#E95420"}
+
 *Assistant Professor* [Feb 2020 --- Jul 2024]{.cvdate}
 
 -   Developed and implemented creative curricula for public health courses.
@@ -53,32 +56,38 @@ css: cv.css
 
 -   Mentored students and enhanced research quality by supervising and evaluating theses.
 
-### [**Research and Training Wing, PPHI Sindh, Karachi (PK)**]{style="color:#E95420"}\
+### [**Research and Training Wing, PPHI Sindh, Karachi (PK)**]{style="color:#E95420"}
+
 *Deputy Director (Research)* [Nov 2018 --- Jan 2020]{.cvdate}
 
--   Implemented various research projects in 22 districts of Sindh.
+-   Directed research initiatives across 22 districts, leveraging DHIS data to inform program planning, improve reporting accuracy, and support evidence-based decision-making.
 
--   Analyzed PPHI Sindh’s database from DHIS for insightful analysis.
+-   Conducted healthcare facility assessment projects and led a warehouse assessment across all 22 districts.
 
--   Established PPHI Sindh’s IRB committee, ensuring ethical research practices.
+-   Oversaw key institutional studies, including A Report on Cesarean Section Audit and Warehouse Assessment of PPHI Sindh.
 
-### [**Department of Epidemiology and Biostatistics, School of Public Health, Tehran University of Medical Sciences, Tehran (IR)**]{style="color:#E95420"}\
+-   Established the Institutional Review Board (IRB) to ensure ethical research practices across all projects.
+
+### [**Department of Epidemiology and Biostatistics, School of Public Health, Tehran University of Medical Sciences, Tehran (IR)**]{style="color:#E95420"}
+
 *Teaching Assistant* [Apr 2014 --- SEP 2017]{.cvdate}
 
--   Supervised Community Assessment program for MPH students.
+-   Supervised two rounds of Community Assessment Program based on North Carolina Community Health Assessment as a part of MPH program.
 
 -   Facilitated MPH students in Research Methodology & Epidemiology courses.
 
 -   Conducted SPSS, STATA & R workshops for PhD candidates.
 
-### [**Non-Communicable Diseases Research Center, Tehran University of Medical Sciences, Tehran (IR)**]{style="color:#E95420"}\
+### [**Non-Communicable Diseases Research Center, Tehran University of Medical Sciences, Tehran (IR)**]{style="color:#E95420"}
+
 *Research Assistant* [May 2013 --- Dec 2014]{.cvdate}
 
 -   Worked with PIs to coordinate quantitative research on maternal & child health issues.
 
 -   Participated in developing and published study protocol for national & sub-national burden of maternal conditions in Iran.
 
-### [**Department of Community Health Sciences, Ziauddin University, Karachi (PK)**]{style="color:#E95420"}\
+### [**Department of Community Health Sciences, Ziauddin University, Karachi (PK)**]{style="color:#E95420"}
+
 *Lecturer* [Feb 2008 --- Sep 2012]{.cvdate}
 
 -   Facilitated courses on Biostatistics and Epidemiology to medical students.
