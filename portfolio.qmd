@@ -7,14 +7,16 @@ format: html
 
 ::: columns
 ::: {.column width="55%"}
-This presentation outlines the key components of good research practices. Here I emphasized the importance of reproducibility of research and ethical methods. Moreover, I discussed common misconceptions, such as the hierarchy of study designs, Simpson’s paradox, p-hacking, and stressing the difference between statistical and public health significance. [View this presentation here!](https://oraza.github.io/ppt/50ShadesofResearch.ppsx){target="_blank"}
+This presentation outlines the key components of good research practices. Here I emphasized the importance of reproducibility of research and ethical methods. Moreover, I discussed common misconceptions, such as the hierarchy of study designs, Simpson’s paradox, p-hacking, and stressing the difference between statistical and public health significance. 
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-![](images/proj_1.jpeg)
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8b1z5M7AkwlN9d6_ZuY6qeL3U8iGVQwdSEAwi6Vulp4eVgIdUvmkNkACydK04XS8tspXyB9ekbUhH/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
 :::
 :::
 
