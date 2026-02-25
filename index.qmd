@@ -20,7 +20,8 @@ about:
 
 ---
 <span style="font-size: 20px;">
-I'm a public health researcher deeply dedicated to <span style="color:#E95420">**health equity**</span> and <span style="color:#E95420">**social justice**<iconify-icon icon="hugeicons:justice-scale-01" width="20" height="20"></iconify-icon></span>. My career has revolved around teaching public health courses, guiding graduate & postgraduate theses, and leading research projects. This trajectory has been shaped by a commitment to addressing health disparities faced by underserved communities.</span>
+I'm a public health researcher deeply dedicated to <span style="color:#E95420">**health equity**</span> and <span style="color:#E95420">**social justice**<iconify-icon icon="hugeicons:justice-scale-01" width="20" height="20"></iconify-icon></span>. Currently, I serve as a Research Scientist at the <a href="https://buffettinstitute.nebraska.edu/" target="_blank" style="color:#E95420; text-decoration:none;">
+<strong>Buffett Early Childhood Institute</strong></a>, where I collaborate with the Applied Research team to advance data-driven improvements in early childhood systems. My career has revolved around teaching public health courses, guiding graduate & postgraduate theses, and leading research projects. This trajectory has been shaped by a commitment to addressing health disparities faced by underserved communities.</span>
 
 <span style="font-size: 20px;">
 My research interests span a wide array of topics, including <span style="color:#E95420">**spatial epidemiology**</span>, <span style="color:#E95420">**infectious diseases**</span>, <span style="color:#E95420">**health inequalities**</span> and application of <span style="color:#E95420">**mediation and moderation analyses**</span>.</span>
